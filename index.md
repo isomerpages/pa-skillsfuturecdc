@@ -13,19 +13,17 @@ sections:
       button: Find out more
       url: /about
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Programme Calendar
+          description: ""
+          url: /programmes
+        - title: Our Partners
+          description: ""
+          url: /partners
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: "Be Future Ready "
+      subtitle: About Skills future @ cdc 2022
+      description: Discover the opportunities in the growth economies and take charge
+        of your learning at this year's  SkillsFuture@CDC.
+      button: Learn more
+      url: /about
 ---
