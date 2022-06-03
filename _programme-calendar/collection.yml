@@ -1,4 +1,5 @@
 collections:
   programme-calendar:
     output: true
-    order: []
+    order:
+      - Webinars.md
