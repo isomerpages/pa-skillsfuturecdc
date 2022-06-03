@@ -1,0 +1,4 @@
+collections:
+  programme-calendar:
+    output: true
+    order: []
