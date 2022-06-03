@@ -9,7 +9,7 @@ sections:
   - hero:
       title: SkillsFuture @ CDC 2022
       subtitle: Be Future Ready
-      background: /images/SkillsFuture@CDC 2022 Briefing Slides_v3 (002).jpg
+      background: /images/hero-banner.png
       button: Find out more
       url: /about
       key_highlights:
