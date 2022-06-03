@@ -7,11 +7,11 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      title: SkillsFuture @ CDC 2022
+      subtitle: Be Future Ready
+      background: /images/SkillsFuture@CDC 2022 Briefing Slides_v3 (002).jpg
+      button: Find out more
+      url: /about
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -29,5 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
