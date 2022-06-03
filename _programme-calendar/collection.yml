@@ -2,6 +2,7 @@ collections:
   programme-calendar:
     output: true
     order:
+      - North West CDC.md
       - North East CDC.md
       - South East CDC.md
       - South West CDC.md
