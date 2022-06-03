@@ -1,5 +1,12 @@
 logo: /images/Picture4.png
 links:
+  - title: About SkillsFuture @ CDC 2022
+    url: /permalink
+  - title: Programmes
+    url: /programmes
+    sublinks:
+      - title: Overview
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
