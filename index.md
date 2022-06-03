@@ -26,4 +26,12 @@ sections:
         of your learning at this year's  SkillsFuture@CDC.
       button: Learn more
       url: /about
+  - infopic:
+      title: SkillsFuture @ CDC Programmes
+      description: From 5 July – 14 August 2022, take part in the various SkillsFuture
+        Festivals across the 5 districts.
+      button: View programme line-up
+      url: /programmes
+      image: /images/SkillsFuture@CDC 2022 Briefing Slides_v3 (003).jpg
+      alt: Image alt text
 ---
