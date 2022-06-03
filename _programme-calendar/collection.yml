@@ -2,6 +2,7 @@ collections:
   programme-calendar:
     output: true
     order:
+      - South East CDC.md
       - South West CDC.md
       - Central Singapore CDC.md
       - Webinars.md
