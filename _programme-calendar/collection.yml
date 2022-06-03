@@ -2,7 +2,7 @@ collections:
   programme-calendar:
     output: true
     order:
-      - Webinars.md
+      - Programme Overview.md
       - Central Singapore CDC.md
       - North West CDC.md
       - North East CDC.md
