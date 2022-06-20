@@ -1,0 +1,4 @@
+collections:
+  skillsfuture-events:
+    output: true
+    order: []
