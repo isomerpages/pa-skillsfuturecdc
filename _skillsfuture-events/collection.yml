@@ -1,4 +1,5 @@
 collections:
   skillsfuture-events:
     output: true
-    order: []
+    order:
+      - Tab 1.md
