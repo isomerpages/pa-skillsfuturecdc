@@ -38,4 +38,5 @@ sections:
       description: Insert description here
       button: Button Text
       alt: Image alt text
+      url: /webinar
 ---
