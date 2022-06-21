@@ -4,21 +4,20 @@ title: SkillsFuture@CDC
 description: SkillsFuture@ CDC
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: SkillsFuture @ CDC 2022
       subtitle: Be Future Ready
       background: /images/hero-banner.png
-      button: Find out more
       url: /about
       key_highlights:
-        - title: Programme Calendar
+        - title: SkillsFuture Festival Events
           description: ""
-          url: /programmes
-        - title: Our Partners
+          url: /events
+        - title: SkillsFuture Webinar Series
           description: ""
-          url: /partners
+          url: /webinar
   - infobar:
       title: "Be Future Ready "
       subtitle: About Skills future @ cdc 2022
