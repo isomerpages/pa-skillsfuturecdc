@@ -2,9 +2,11 @@ logo: /images/Picture4.png
 links:
   - title: About SkillsFuture @ CDC 2022
     url: /about
-  - title: Our Partners
-    url: /partners
+  - title: SkillsFuture Festival Events
+    url: /events
+  - title: SkillsFuture Webinar Series
+    url: /webinar
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: CDC Official Site
+    url: https://www.cdc.gov.sg/
