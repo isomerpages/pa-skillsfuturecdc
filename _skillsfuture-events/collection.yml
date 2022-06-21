@@ -1,6 +1,0 @@
-collections:
-  skillsfuture-events:
-    output: true
-    order:
-      - Tab 2.md
-      - Tab 1.md
