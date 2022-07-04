@@ -27,9 +27,9 @@ sections:
       url: /about
   - infopic:
       title: SkillsFuture Festival Events
-      description: From 5 July – 14 August 2022, take part in the various SkillsFuture
-        Festivals across the 5 districts.
-      button: View programme line-up
+      description: From 5 July – 14 August 2022,  take part in the various
+        SkillsFuture Festivals across the 5 districts.
+      button: View event line-up
       url: /events
       image: /images/SkillsFuture@CDC 2022 Briefing Slides_v3 (003).jpg
       alt: Image alt text
