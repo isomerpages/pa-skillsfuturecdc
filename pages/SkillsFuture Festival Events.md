@@ -22,3 +22,10 @@ description: SkillsFuture Festival Event
 |  |  | 
 | -------- | -------- |
 | ![Insert image here](/images/Picture1.png) |<strong>Title: Skills & Learning Festival @ South East <br>  Date:      29 & 30 July 2022 <br> Time: 10:00am – 5:00pm<br> Venue: </strong> <br><br>     Ever wondered the types of skills essential in the post pandemic world? Join us at the Skills & Learning Festival @ South East to find out more! You may even get the opportunity to learn them for free.<br><br>Click here to find out more: [https://go.gov.sg/sffsecdc2022 ](https://go.gov.sg/sffsecdc2022 )<br> <br>
+
+## North East CDC
+
+
+|  |  | 
+| -------- | -------- |
+| ![Insert image here](/images/Picture1.png) |<strong>Title: The Green Expedition <br>  Date:      30 & 31 July 2022 <br> Time: 10:00am – 5:00pm<br> Venue: </strong> <br><br> Come explore jobs in the green economy; engage with industry speakers on sustainability topics and experience how you can be more involved in green and sustainability efforts in the community at our SkillsFuture Festival.<br><br>Click here to find out more:<br> <br>
