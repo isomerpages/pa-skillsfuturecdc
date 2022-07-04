@@ -3,14 +3,15 @@ title: SkillsFuture Festival Events
 permalink: /events
 description: SkillsFuture Festival Event
 ---
-## Heading here if needed
+## South West CDC
 
-(insert blurb here if needed)
-
-|  |  | 
-| -------- | -------- |
-| ![Insert image here](/images/Picture1.png) |<strong>Friday, 01 Oct 2021 <br>  05:30 PM - 07:00 PM <br>   Divorce & You (Civil)</strong> <br><br>The on-going pandemic has not only affected society at large, it has also affected families, perhaps especially for marriages. Spouses who find themselves in each other’s presence all day, every day, may learn some hard truths about their marriage. <br> <br>Has the experience given rise to some marital issues for you? Are you worried about your financial situation and your children? <br> <br>Join this webinar as our moderator, Liyen Lim, and speakers, Abigail Lee (Executive Director, Healing Hearts Centre) and Yap Teong Liang (Director, T L Yap Law Chambers LLC), as they walk you through divorce proceedings, mediation and explore other options for couples facing marital disputes and discuss ancillary matters such as children’s welfare, maintenance, division of matrimonial assets and more.  |
 
 |  |  | 
 | -------- | -------- |
-| ![Insert image here](/images/Picture1.png) |<strong>Friday, 01 Oct 2021 <br>  05:30 PM - 07:00 PM <br>   Divorce & You (Civil)</strong> <br><br>The on-going pandemic has not only affected society at large, it has also affected families, perhaps especially for marriages. Spouses who find themselves in each other’s presence all day, every day, may learn some hard truths about their marriage. <br> <br>Has the experience given rise to some marital issues for you? Are you worried about your financial situation and your children? <br> <br>Join this webinar as our moderator, Liyen Lim, and speakers, Abigail Lee (Executive Director, Healing Hearts Centre) and Yap Teong Liang (Director, T L Yap Law Chambers LLC), as they walk you through divorce proceedings, mediation and explore other options for couples facing marital disputes and discuss ancillary matters such as children’s welfare, maintenance, division of matrimonial assets and more.
+| ![Insert image here](/images/Picture1.png) |<strong>Title: Discover the New Future <br>  Date: 22 & 23 July 2022 <br> Time: 10:00am - 5:00pm<br> Venue: </strong> <br><br>Journey with us to explore the 3 growth economies with hands-on activities and demostrations, such as drone flying and 3D printing. Walk through our SkillsFuture Learning Journey and understand your interest through a profiling activity, and learn more on SkillsFuture programmes available for you! <br><br>Click here to find out more:<br> <br>
+## Central Singapore CDC
+
+
+|  |  | 
+| -------- | -------- |
+| ![Insert image here](/images/Picture1.png) |<strong>Title:   Skills for Good Festival 2022 <br>  Date:    23 & 24 July 2022 <br> Time: 10:00am – 6:00pm<br> Venue: </strong> <br><br>  Come visit Skills For Good Festival 2022 to learn the trends and skills required in the Digital, Care and Green economies! Test your cybersecurity knowledge, learn how to assist people with disabilities and get tips on how you can grow your own edible plants!<br><br>Click here to find out more:<br> <br>
