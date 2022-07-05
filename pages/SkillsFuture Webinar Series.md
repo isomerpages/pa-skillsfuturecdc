@@ -10,7 +10,8 @@ description: SkillsFuture Webinar Series
 | 3     | 18 July Monday<br>10am – 11.30am | Power Strategise your Career Transition    | Making a career transition is a strategy! Be inspired by a true story of how an individual crafted his career journey to reach his desired goal. | Text     
 | 4     | 21 July Thursday<br>10am – 1pm| Digismart: Trend Sharing - The Future of Work | Trend Sharing - The Future of Work<br><br>Sign up now to:<br>- Understand the importance of digitalisation<Br>- Identify the type of jobs in the future economy<br>- Explore common collaboration tools at the workplace | Text     
 | 5     | 25 July Monday<br>12pm – 1.30pm| Building a Future-Ready Accountancy Workforce through Jobs Transformation    | Is the accountancy sector thriving? Where are the growth opportunities? How can you deepen your skills in the accountancy sector? Join us for this one-hour workshop to learn how the accountancy sector has progressed and what the latest hiring trends are    | Text     
-| 6     | 26 July Tuesday<br>12pm – 1.30pm     |Attract Job Opportunities Through LinkedIn Videos   | Text     | Text     
+| 6     | 26 July Tuesday<br>12pm – 1.30pm     |Attract Job Opportunities Through LinkedIn Videos   | In today’s digital world, every business has an online presence, and the same goes for job search. Master the art of relationship-building online and create an impactful personal brand at this workshop.
+ | Text     
 | 7     | 28 July Thursday<br>12pm – 2pm | Rediscover Singapore Tourism Careers     | Text     | Text     
 | 8     | 29 July Friday<br>12pm – 1.30pm| Coaching Self for Success | Text     | Text     
 | 9     | 2 August Tuesday<br>12pm – 1.30pm | Speak Off the Cuff and Sell Effectively at Job Interviews   | Text     | Text     
