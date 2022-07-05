@@ -9,8 +9,8 @@ description: SkillsFuture Webinar Series
 | 2     | 15 July Friday<br>12pm – 1.30pm | Cultivating Power Mindset for Achieving Goals    | Text     | Text     
 | 3     | 18 July Monday<br>10am – 11.30am | Power Strategise your Career Transition    | Text     | Text     
 | 4     | 21 July Thursday<br>10am – 1pm| Digismart: Trend Sharing - The Future of Work | Text     | Text     
-| 5     | 25 July Monday<br>12pm – 1.30pm| Text     | Text     | Text     
-| 6     | 26 July Tuesday<br>12pm – 1.30pm     | Text     | Text     | Text     
+| 5     | 25 July Monday<br>12pm – 1.30pm| Building a Future-Ready Accountancy Workforce through Jobs Transformation    | Text     | Text     
+| 6     | 26 July Tuesday<br>12pm – 1.30pm     |Attract Job Opportunities Through LinkedIn Videos   | Text     | Text     
 | 7     | 28 July Thursday<br>12pm – 2pm | Text     | Text     | Text     
 | 8     | 29 July Friday<br>12pm – 1.30pm| Text     | Text     | Text     
 | 9     | 2 August Tuesday<br>12pm – 1.30pm | Text     | Text     | Text     
