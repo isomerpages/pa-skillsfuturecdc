@@ -15,6 +15,6 @@ description: SkillsFuture Webinar Series
 | 8     | 29 July Friday<br>12pm – 1.30pm| Coaching Self for Success | Text     | Text     
 | 9     | 2 August Tuesday<br>12pm – 1.30pm | Speak Off the Cuff and Sell Effectively at Job Interviews   | Text     | Text     
 | 10     | 4 August Thursday<br>10am – 11.30am | Professional Grooming for Job Interview    | Text     | Text     
-| 11    |  5 August Friday<br>12pm – 2pm | Text     | Text     | Text     
-| 12     | 10 August Wednesday<br>2pm – 3.30pm     | Text     | Text     | Text     
-| 13     | Text     | Text     | Text     | Text     |
+| 11    |  5 August Friday<br>12pm – 2pm | Live Your Life Well     | Text     | Text     
+| 12     | 10 August Wednesday<br>2pm – 3.30pm     | Sustainability Practices   | Text     | Text     
+| 
