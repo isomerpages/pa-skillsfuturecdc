@@ -13,8 +13,8 @@ description: SkillsFuture Webinar Series
 | 6     | 26 July Tuesday<br>12pm – 1.30pm     | Text     | Text     | Text     
 | 7     | 28 July Thursday<br>12pm – 2pm | Text     | Text     | Text     
 | 8     | 29 July Friday<br>12pm – 1.30pm| Text     | Text     | Text     
-| 9     | Text     | Text     | Text     | Text     
-| 10     | Text     | Text     | Text     | Text     
+| 9     | 2 August Tuesday<br>12pm – 1.30pm | Text     | Text     | Text     
+| 10     | 4 August Thursday<br>10am – 11.30am | Text     | Text     | Text     
 | 11    | Text     | Text     | Text     | Text     
 | 12     | Text     | Text     | Text     | Text     
 | 13     | Text     | Text     | Text     | Text     |
