@@ -13,9 +13,9 @@ description: SkillsFuture Webinar Series
 | 6     | 26 July Tuesday<br>12pm – 1.30pm     |Attract Job Opportunities Through LinkedIn Videos   | In today’s digital world, every business has an online presence, and the same goes for job search. Master the art of relationship-building online and create an impactful personal brand at this workshop.
  | Text     
 | 7     | 28 July Thursday<br>12pm – 2pm | Rediscover Singapore Tourism Careers     |    As Singapore opens up its doors to foreign visitors, doors of opportunity also await you in the tourism sector. Find out what are the meaningful tourism career opportunities in a post pandemic world.<br><Br>Key Highlights:<Br>1) SingapoREimagined: Building a Future-ready Tourism Workforce by Singapore Tourism Board<br>2) Welcome to the Exciting World of the Hotel Industry by Ascott Centre for Excellence<Br>3) The Island Awakens – Preparing Sentosa for the Recovery of Tourism by Sentosa Development Corporation | Text     
-| 8     | 29 July Friday<br>12pm – 1.30pm| Coaching Self for Success | Text     | Text     
-| 9     | 2 August Tuesday<br>12pm – 1.30pm | Speak Off the Cuff and Sell Effectively at Job Interviews   | Text     | Text     
-| 10     | 4 August Thursday<br>10am – 11.30am | Professional Grooming for Job Interview    | Text     | Text     
-| 11    |  5 August Friday<br>12pm – 2pm | Live Your Life Well     | Text     | Text     
+| 8     | 29 July Friday<br>12pm – 1.30pm| Coaching Self for Success | Be empowered to do self-coaching so as to discover and understand yourself, be creative and be open to new options, make decisions positively and get unstuck in the way forward | Text     
+| 9     | 2 August Tuesday<br>12pm – 1.30pm | Speak Off the Cuff and Sell Effectively at Job Interviews   | You enter an interview room well-prepared. But your potential employer poses a challenging question that you were not ready for. What do you do? Join us to learn how to communicate under pressure at interviews. | Text     
+| 10     | 4 August Thursday<br>10am – 11.30am | Professional Grooming for Job Interview    |  How do you project a professional image and persona at job interviews? Learn how to build more self-confidence and create a positive impression by grooming right.  | Text     
+| 11    |  5 August Friday<br>12pm – 2pm | Live Your Life Well     | T  | Text     
 | 12     | 10 August Wednesday<br>2pm – 3.30pm     | Sustainability Practices   | Text     | Text     
 |
