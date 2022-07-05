@@ -6,9 +6,9 @@ description: SkillsFuture Webinar Series
 |  | Date/Time | Title | Webinar Description | Speaker |
 | -------- | -------- | --------|  -------- | -------- | 
 | 1     | 12 July Tuesday <br>10am – 11.30am | The Secret of Getting YES! | Whether you’re aware of it or not, you’ve neem negotiating with people your entire life. When we enter the workplace, we negotiate with our colleagues, customers, suppliers, and our bosses. Negotiation is the one skill that can be improved through training, and you will learn the HOW of negotiation at this sharing. | Ms Yasmin Abdeen<br><br>e2i Associate Trainer<br><br>Employment & Employment Institute
-| 2     | 15 July Friday<br>12pm – 1.30pm | Cultivating Power Mindset for Achieving Goals    | Text     | Text     
-| 3     | 18 July Monday<br>10am – 11.30am | Power Strategise your Career Transition    | Text     | Text     
-| 4     | 21 July Thursday<br>10am – 1pm| Digismart: Trend Sharing - The Future of Work | Text     | Text     
+| 2     | 15 July Friday<br>12pm – 1.30pm | Cultivating Power Mindset for Achieving Goals    | Some people call it perseverance, others call it grit. Whatever label you give, a strong mindset is a trait shared by high performing individuals whether they are entrepreneurs, leaders or sports people. Learning how to cultivate a strong mindset is a fundamental skill to develop resiliency against setbacks such as job loss, and advance towards your goals | Text     
+| 3     | 18 July Monday<br>10am – 11.30am | Power Strategise your Career Transition    | Making a career transition is a strategy! Be inspired by a true story of how an individual crafted his career journey to reach his desired goal. | Text     
+| 4     | 21 July Thursday<br>10am – 1pm| Digismart: Trend Sharing - The Future of Work | Trend Sharing - The Future of Work<br><br>Sign up now to:<br>- Understand the importance of digitalisation<Br>- Identify the type of jobs in the future economy<br>- Explore common collaboration tools at the workplace | Text     
 | 5     | 25 July Monday<br>12pm – 1.30pm| Building a Future-Ready Accountancy Workforce through Jobs Transformation    | Text     | Text     
 | 6     | 26 July Tuesday<br>12pm – 1.30pm     |Attract Job Opportunities Through LinkedIn Videos   | Text     | Text     
 | 7     | 28 July Thursday<br>12pm – 2pm | Rediscover Singapore Tourism Careers     | Text     | Text     
@@ -17,4 +17,4 @@ description: SkillsFuture Webinar Series
 | 10     | 4 August Thursday<br>10am – 11.30am | Professional Grooming for Job Interview    | Text     | Text     
 | 11    |  5 August Friday<br>12pm – 2pm | Live Your Life Well     | Text     | Text     
 | 12     | 10 August Wednesday<br>2pm – 3.30pm     | Sustainability Practices   | Text     | Text     
-| 
+|
