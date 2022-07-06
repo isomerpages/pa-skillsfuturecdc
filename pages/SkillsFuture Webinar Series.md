@@ -3,6 +3,8 @@ title: SkillsFuture Webinar Series
 permalink: /webinar
 description: SkillsFuture Webinar Series
 ---
+> ###### To register for the webinars, click here: https://go.gov.sg/skillsfuturecdc2022-reg
+
 |  | Date/Time | Title | Webinar Description | Speaker |
 | -------- | -------- | --------|  -------- | -------- 
 | 1     | 12 July Tuesday <br>10am – 11.30am | The Secret of Getting a YES! | Whether you’re aware of it or not, you’ve neem negotiating with people your entire life. When we enter the workplace, we negotiate with our colleagues, customers, suppliers, and our bosses. Negotiation is the one skill that can be improved through training, and you will learn the HOW of negotiation at this sharing. | Ms Yasmin Abdeen<br><br>e2i Associate Trainer<br><br>Employment & Employability Institute<br><br>Co-founder<br>Adder Corp. Pte Ltd.
