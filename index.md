@@ -9,7 +9,7 @@ sections:
   - hero:
       title: SkillsFuture @ CDC 2022
       subtitle: Be Future Ready
-      background: /images/FB BANNER R3-01.png
+      background: /images/FUTURE.png
       url: /about
       key_highlights:
         - title: SkillsFuture Festival Events
@@ -26,7 +26,7 @@ sections:
       button: Learn More
       url: /about
       alt: Image alt text
-      image: /images/FUTURE.png
+      image: /images/FB BANNER R3-01.png
   - infopic:
       title: SkillsFuture Festival Events
       description: From 5 July – 14 August 2022,  take part in the various
@@ -44,4 +44,3 @@ sections:
       url: /webinar
       image: /images/VID CONFERENCE.jpg
 ---
-
