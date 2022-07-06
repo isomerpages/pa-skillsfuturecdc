@@ -9,7 +9,7 @@ sections:
   - hero:
       title: SkillsFuture @ CDC 2022
       subtitle: Be Future Ready
-      background: /images/hero-banner.png
+      background: /images/FB BANNER R3-01.png
       url: /about
       key_highlights:
         - title: SkillsFuture Festival Events
@@ -40,4 +40,12 @@ sections:
       button: Join now
       alt: Image alt text
       url: /webinar
+  - infopic:
+      title: Be Future Ready
+      subtitle: ABOUT SKILLS FUTURE @ CDC 2022
+      description: Discover the opportunities in the growth economies and take charge
+        of your learning at this year's SkillsFuture@CDC.
+      button: Learn More
+      url: /about
+      alt: Image alt text
 ---
