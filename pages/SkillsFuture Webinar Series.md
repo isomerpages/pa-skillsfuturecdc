@@ -3,7 +3,6 @@ title: SkillsFuture Webinar Series
 permalink: /webinar
 description: SkillsFuture Webinar Series
 ---
-To register for the webinars, click here: https://go.gov.sg/skillsfuturecdc2022-reg
 
 |  | Date/Time | Title | Webinar Description | Speaker | Registration link|
 | -------- | -------- | --------|  -------- | -------- | --------
