@@ -15,14 +15,14 @@ description: SkillsFuture Festival Event
 
 |  |  | 
 | -------- | -------- |
-| |<strong>Title:   Skills for Good Festival 2022 <br>  Date:    23 & 24 July 2022 <br> Time: 10:00am – 6:00pm<br> Venue: </strong> <br>HDB Hub<br>Lorong 6 Toa Payoh<br>Singapore<br>  Come visit Skills For Good Festival 2022 to learn the trends and skills required in the Digital, Care and Green economies! Test your cybersecurity knowledge, learn how to assist people with disabilities and get tips on how you can grow your own edible plants!<br><br>Click here to find out more: <br>[https://go.gov.sg/sfg2022](https://go.gov.sg/sfg2022)<br> <br>
+| |<strong>Title:   Skills for Good Festival 2022 <br>  Date:    23 & 24 July 2022 <br> Time: 10:00am – 6:00pm<br> Venue: </strong> <br>HDB Hub<br>Lorong 6 Toa Payoh<br>Singapore<br>  <br>Come visit Skills For Good Festival 2022 to learn the trends and skills required in the Digital, Care and Green economies! Test your cybersecurity knowledge, learn how to assist people with disabilities and get tips on how you can grow your own edible plants!<br><br>Click here to find out more: [https://go.gov.sg/sfg2022](https://go.gov.sg/sfg2022)<br> <br>
 
 ## South East CDC
 
 
 |  |  | 
 | -------- | -------- |
-| |<strong>Title: Skills & Learning Festival @ South East <br>  Date:      29 & 30 July 2022 <br> Time: 10:00am – 5:00pm<br> Venue: </strong> <br>ITE College East Atrium<br>10 Simei Avenue, <br>Singapore 486067<br><br>     Ever wondered the types of skills essential in the post pandemic world? Join us at the Skills & Learning Festival @ South East to find out more! You may even get the opportunity to learn them for free.<br><br>Click here to find out more: [https://go.gov.sg/sffsecdc2022 ](https://go.gov.sg/sffsecdc2022 )<br> <br>
+| |<strong>Title: Skills & Learning Festival @ South East <br>  Date:      29 & 30 July 2022 <br> Time: 10:00am – 5:00pm<br> Venue: </strong> <br>ITE College East Atrium<br>10 Simei Avenue, <br>Singapore 486067<br><br>     Ever wondered the types of skills essential in the post pandemic world? Join us at the Skills & Learning Festival @ South East to find out more! You may even get the opportunity to learn them for free.<br><br>Click here to find out more: https://go.gov.sg/sffsecdc2022<br> <br>
 
 ## North East CDC
 
