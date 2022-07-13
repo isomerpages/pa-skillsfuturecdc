@@ -26,7 +26,7 @@ sections:
       button: Learn More
       url: /about
       alt: Image alt text
-      image: /images/FB BANNER R3-01.png
+      image: /images/(NEW) SFA BANNER.png
   - infopic:
       title: SkillsFuture Festival Events
       description: From 5 July – 14 August 2022,  take part in the various
