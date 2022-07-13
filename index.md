@@ -38,7 +38,7 @@ sections:
   - infopic:
       title: SkillsFuture Webinar Series
       description: "Join our SkillsFuture webinar series to get new perspectives and
-        confident to navigate into the future that you look forward to. "
+        confidence to navigate into the future that you look forward to. "
       button: Join now
       alt: Image alt text
       url: /webinar
