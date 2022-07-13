@@ -9,4 +9,4 @@ SkillsFuture@CDC 2022 will take place from 5 July – 14 August 2022, with both 
 
 To find out more about the SkillsFuture Festivals organised by the CDCs, [click here.](/events)
 
-![SkillsFuture CDC Logo Bar](/images/SF%20Logo%20bar.png)
+![SFA Logo Lockup](/images/SFA%20Logo%20Lockup.png)
