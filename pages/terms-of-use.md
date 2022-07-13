@@ -27,9 +27,10 @@ Modification of any of the Contents or use of the Contents for any other purpose
 The Contents of this Web Site are provided on an "as is" basis with no warranties whatsoever. PA is not responsible for any loss or damage, howsoever occasioned and whomsoever caused, which arises out of, or in connection with, any inaccuracy or error appearing on this Web Site, whether such inaccuracy or error is caused by any act or omission.
 
 To the fullest extent permissible, PA does not warrant and hereby disclaims any warranty:
-
-1.  as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;
-2.  that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other malicious, destructive or corrupting code, agent, program or macro.
+<ol type="a" style="list-style-type:lower-alpha;">
+<li>as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;</li>
+<li>that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other malicious, destructive or corrupting code, agent, program or macro.</li>
+</ol>
 
 ### Right of Access
 
@@ -62,17 +63,17 @@ Where you undertake any interactive communication with or provide any informatio
 ### On use of Web Site
 
 You agree that you will not:
-
-1.  use any robot, spider, other automatic device, or manual process to monitor or copy any pages or materials within this Web Site or the Contents without PA’s prior written permission;
-2.  use any device, software or routine to interfere or attempt to interfere with the proper working of this Web Site; and/or
-3.  take any action that imposes an unreasonable or disproportionately large load on PA’s servers.
+<ol type="a" style="list-style-type:lower-alpha;">
+<li>use any robot, spider, other automatic device, or manual process to monitor or copy any pages or materials within this Web Site or the Contents without PA’s prior written permission;</li>
+<li>use any device, software or routine to interfere or attempt to interfere with the proper working of this Web Site; and/or</li>
+<li>take any action that imposes an unreasonable or disproportionately large load on PA’s servers.</li></ol>
 
 ### On exclusion of liability
 
 To the fullest extent permitted by law, PA shall in no event be liable for any damages, loss or expense, direct or indirect, including but without limitation, special or consequential damage, or economic loss arising from or in connection with:
-
-1.  any access, use or inability to access or use this Web Site, or reliance on the materials in this Web Site; and/or (similar to “Disclaimer of Warranties and Liability)
-2.  any failure of performance, system, server or connection failure, interruption, defect, error, omission, delay in operation or transmission, breach of security, malicious code, computer virus or inability or unavailability to use or access in connection with your accessing this Web Site, tools, and/or online services;
+<ol type="a" style="list-style-type:lower-alpha;">
+<li>any access, use or inability to access or use this Web Site, or reliance on the materials in this Web Site; and/or (similar to “Disclaimer of Warranties and Liability)</li>
+<li>any failure of performance, system, server or connection failure, interruption, defect, error, omission, delay in operation or transmission, breach of security, malicious code, computer virus or inability or unavailability to use or access in connection with your accessing this Web Site, tools, and/or online services;</li></ol>
 
 Even if PA or its employees are advised of the possibility of such damages, losses and/or expenses.
 
