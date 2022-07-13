@@ -16,7 +16,7 @@ permalink: /privacy/
 	</ol></li>
 <li>To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.</li>
 <li>This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.</li>
-<li>Please contact us through [PA\_QSM@pa.gov.sg](mailto:PA_QSM@pa.gov.sg):
+	<li>Please contact us through <a href="mailto:PA_QSM@pa.gov.sg">PA_QSM@pa.gov.sg</a>:
 	<ol type="a" style="list-style-type:lower-alpha;">
 		<li>for any enquires or feedback on our data protection policies and procedures,</li>
 		<li>for more information on or access to data which you have provided to us in the past.</li>
