@@ -29,7 +29,7 @@ description: SkillsFuture Festival Event
 
 |  |  | 
 | -------- | -------- |
-||<strong>Title: The Green Expedition <br>  Date:      30 & 31 July 2022 <br> Time: 10:00am – 5:00pm<br> Venue: Our Tampines Hub, Festive Walk East</strong> <br><br> Come explore jobs in the green economy; engage with industry speakers on sustainability topics and experience how you can be more involved in green and sustainability efforts in the community at our SkillsFuture Festival.<br><br>Click here to find out more:<br>https://go.gov.sg/nesff2022 <br>
+||<strong>Title: The Green Expedition <br>  Date:      30 & 31 July 2022 <br> Time: 10:00am – 5:00pm<br> Venue: Our Tampines Hub, Festive Walk East</strong> <br><br> Come explore jobs in the green economy; engage with industry speakers on sustainability topics and experience how you can be more involved in green and sustainability efforts in the community at our SkillsFuture Festival.<br><br>Click here to find out more: [https://go.gov.sg/nesff2022] <br><br>
 
 ## North West CDC
 
