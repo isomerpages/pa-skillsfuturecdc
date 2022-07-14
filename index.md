@@ -12,7 +12,7 @@ sections:
       background: /images/FUTURE.png
       url: /about
       key_highlights:
-        - title: SkillsFuture Festival Events
+        - title: SkillsFuture@CDC Festival Events
           description: ""
           url: /events
         - title: SkillsFuture Webinar Series
