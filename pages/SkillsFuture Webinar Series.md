@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Webinar Series
-permalink: /webinar
+permalink: /webinar/
 description: SkillsFuture Webinar Series
 ---
 |  | Date/Time | Title | Webinar Description | Speaker | Registration link|

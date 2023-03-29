@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Festival Events
-permalink: /events
+permalink: /events/
 description: SkillsFuture Festival Event
 ---
 ## South West CDC
