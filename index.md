@@ -4,7 +4,9 @@ title: SkillsFuture@CDC
 description: SkillsFuture@ CDC
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: There will be a scheduled downtime on all CDC websites on 17
+  April. The website may not be available during this period. We apologise for
+  the inconvenience caused.
 sections:
   - hero:
       title: SkillsFuture @ CDC 2022
@@ -12,7 +14,7 @@ sections:
       background: /images/FUTURE.png
       url: /about
       key_highlights:
-        - title: SkillsFuture Festival Events
+        - title: SkillsFuture@CDC Festival Events
           description: ""
           url: /events
         - title: SkillsFuture Webinar Series
@@ -38,7 +40,7 @@ sections:
   - infopic:
       title: SkillsFuture Webinar Series
       description: "Join our SkillsFuture webinar series to get new perspectives and
-        confident to navigate into the future that you look forward to. "
+        confidence to navigate into the future that you look forward to. "
       button: Join now
       alt: Image alt text
       url: /webinar
