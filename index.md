@@ -21,8 +21,7 @@ sections:
           description: ""
           url: /webinar
   - infopic:
-      title: Be Future Ready
-      subtitle: ABOUT SKILLSFUTURE@CDC 2022
+      subtitle: ABOUT SKILLSFUTURE@CDC 2023
       description: Discover the opportunities in the growth economies and take charge
         of your learning at this year's SkillsFuture@CDC.
       button: Learn More
@@ -39,8 +38,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: SkillsFuture Webinar Series
-      description: "Join our SkillsFuture webinar series to get new perspectives and
-        confidence to navigate into the future that you look forward to. "
+      description: Join our SkillsFuture webinar series to get new perspectives and
+        confidence to navigate into the future that you look forward to.
       button: Join now
       alt: Image alt text
       url: /webinar
