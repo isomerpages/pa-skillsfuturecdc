@@ -9,7 +9,7 @@ notification: There will be a scheduled downtime on all CDC websites on 17
   the inconvenience caused.
 sections:
   - hero:
-      title: SkillsFuture @ CDC 2022
+      title: SkillsFuture @ CDC 2023
       subtitle: Be Future Ready
       background: /images/FUTURE.png
       url: /about
