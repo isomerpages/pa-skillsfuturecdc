@@ -3,9 +3,9 @@ title: About SkillsFuture@CDC 2022
 permalink: /about/
 description: ""
 ---
-SkillsFuture@CDC 2022, theme “Be Future Ready through Upskill Learning & Career Planning”, aims to help the community to be more aware of the opportunities in the growth economies and take charge of their learning to be future ready for an endemic world and shines a spotlight on three highly sought-after industries of the future – Care, Digital and Green.
+SkillsFuture@CDC 2023 aims to help the community to be more aware of the opportunities in the growth economies and take charge of their learning to navigate the future employment landscape and shines a spotlight on three highly sought-after industries of the future – Digital, Green and Care.
 
-SkillsFuture@CDC 2022 will take place from 5 July – 14 August 2022, with both webinar and physical workshops/festivals. To bring learning opportunities and resources closer and more accessible for residents, the five CDCs will organise SkillsFuture Festivals at their respective districts. These Festivals will feature skills demonstration activities, informative workshops, experiential booths, career coaching services and virtual webinars to promote the importance of lifelong learning and skills upgrading.
+SkillsFuture@CDC 2023 will take place from 10 July – 5 August 2023, with the five CDCs organising learning festivals at the different districts to promote the importance of lifelong learning and skills upgrading. These learning festivals will be filled with workshops, seminars and live demonstrations to enable residents to have greater access to learning opportunities and resources to prepare for the future employment landscape and lead a enriching life. 
 
 To find out more about the SkillsFuture Festivals organised by the CDCs, [click here.](/events)
 
