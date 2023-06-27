@@ -22,7 +22,7 @@ description: SkillsFuture Festival Event
 
 |  |  | 
 | -------- | -------- |
-| |<strong>Title: Skills &amp; Learning Festival @ South East <br>  Date:      10 &amp; 11 July 2023 <br> Time: 9:00am – 8:00pm / 10.00am - 5.00pm<br> Venue: </strong> <br>Heartbeat @ Bedok<br>11 Bedok North Street 1, <br>Singapore 469662<br><br>     Ever wondered the types of skills essential in the post pandemic world? Join us at the Skills &amp; Learning Festival @ South East to find out more! You may even get the opportunity to learn them for free.<br><br>Click here to find out more: [https://go.gov.sg/sesff23](https://go.gov.sg/sesff23)<br> <br>
+| |<strong>Title: Skills &amp; Learning Festival @ South East <br>  Date:      10 &amp; 11 July 2023 <br> Time: 9:00am – 8:00pm / 10.00am - 5.00pm<br> Venue: </strong> <br>Heartbeat @ Bedok<br>11 Bedok North Street 1, <br>Singapore 469662<br><br>     Ever wondered what the essential skills that are relevant to the growth economies? Join us at the Skills &amp; Learning Festival @ South East to find out more! You may even get the opportunity to learn them for free.<br><br>Click here to find out more: [https://go.gov.sg/sesff23](https://go.gov.sg/sesff23)<br> <br>
 
 ## North East CDC
 
@@ -31,7 +31,7 @@ description: SkillsFuture Festival Event
 | -------- | -------- |
 ||<strong>Title: The Green Expedition <br>  Date:      30 &amp; 31 July 2022 <br> Time: 10:00am – 5:00pm<br> Venue: <br>Our Tampines Hub, Festive Walk East<br>1 Tampines Walk<br>Singapore528523<br></strong> <br><br> Come explore jobs in the green economy; engage with industry speakers on sustainability topics and experience how you can be more involved in green and sustainability efforts in the community at our SkillsFuture Festival.<br><br>Click here to find out more: [https://go.gov.sg/nesff2022](https://go.gov.sg/nesff2022)<br><br>
 
-## North West CDC
+## North East CDC
 
 
 |  |  | 
