@@ -19,6 +19,7 @@ sections:
         - title: SkillsFuture Webinar Series
           description: ""
           url: /webinar
+      background: /images/FUTURE.png
   - infopic:
       subtitle: ABOUT SKILLSFUTURE@CDC 2023
       description: Discover the opportunities in the growth economies and take charge
