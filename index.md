@@ -11,7 +11,7 @@ sections:
   - hero:
       title: SkillsFuture @ CDC 2023
       subtitle: Be Future Ready
-      background: /images/FUTURE.png
+      background: /images/web banner fa r1-02.png
       url: /about
       key_highlights:
         - title: SkillsFuture@CDC Festival Events
@@ -27,7 +27,7 @@ sections:
       button: Learn More
       url: /about
       alt: Image alt text
-      image: /images/(NEW) SFA BANNER.png
+      image: /images/web banner fa r1-02.png
   - infopic:
       title: SkillsFuture Festival Events
       description: From 4 July – 18 August 2023,  take part in the various
