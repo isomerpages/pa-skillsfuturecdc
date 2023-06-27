@@ -22,7 +22,7 @@ description: SkillsFuture Festival Event
 
 |  |  | 
 | -------- | -------- |
-| |<strong>Title: Skills &amp; Learning Festival @ South East <br>  Date:      29 &amp; 30 July 2022 <br> Time: 10:00am – 5:00pm<br> Venue: </strong> <br>ITE College East Atrium<br>10 Simei Avenue, <br>Singapore 486067<br><br>     Ever wondered the types of skills essential in the post pandemic world? Join us at the Skills &amp; Learning Festival @ South East to find out more! You may even get the opportunity to learn them for free.<br><br>Click here to find out more: https://go.gov.sg/sffsecdc2022<br> <br>
+| |<strong>Title: Skills &amp; Learning Festival @ South East <br>  Date:      10 &amp; 11 July 2023 <br> Time: 9:00am – 8:00pm / 10.00am - 5.00pm<br> Venue: </strong> <br>Heartbeat @ Bedok<br>11 Bedok North Street 1, <br>Singapore 469662<br><br>     Ever wondered the types of skills essential in the post pandemic world? Join us at the Skills &amp; Learning Festival @ South East to find out more! You may even get the opportunity to learn them for free.<br><br>Click here to find out more: [https://go.gov.sg/sesff23](https://go.gov.sg/sesff23)<br> <br>
 
 ## North East CDC
 
