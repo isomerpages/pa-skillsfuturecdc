@@ -8,14 +8,14 @@ description: SkillsFuture Festival Event
 
 |  |  | 
 | -------- | -------- |
-| |<strong>Title: Skills &amp; Learning Festival @ South East <br>  Date:      10 &amp; 11 July 2023 <br> Time: 9:00am – 8:00pm / 10.00am - 5.00pm<br> Venue: </strong> <br>Heartbeat @ Bedok<br>11 Bedok North Street 1, <br>Singapore 469662<br><br>     Ever wondered what the essential skills that are relevant to the growth economies? Join us at the Skills &amp; Learning Festival @ South East to find out more! You may even get the opportunity to learn them for free.<br><br>Click here to find out more: [https://go.gov.sg/sesff23](https://go.gov.sg/sesff23)<br> <br>
+| |<strong>Title: Skills &amp; Learning Festival @ South East <br>  Date:      10 &amp; 11 July 2023 <br> Time: 9:00am – 8:00pm / 10.00am - 5.00pm<br> Venue: </strong> <br>Heartbeat @ Bedok<br>11 Bedok North Street 1, <br>Singapore 469662<br><br>     Ever wondered what are the essential skills relevant to the growth economies? Join us at the Skills &amp; Learning Festival @ South East to find out more and get the opportunity to learn them for free.<br><br>Click here to find out more: [https://go.gov.sg/sesff23](https://go.gov.sg/sesff23)<br> <br>
 
 ## North West CDC
 
 
 |  |  | 
 | -------- | -------- |
-||<strong>Title: The Green Expedition <br>  Date:      30 &amp; 31 July 2022 <br> Time: 10:00am – 5:00pm<br> Venue: <br>Our Tampines Hub, Festive Walk East<br>1 Tampines Walk<br>Singapore528523<br></strong> <br><br> Come explore jobs in the green economy; engage with industry speakers on sustainability topics and experience how you can be more involved in green and sustainability efforts in the community at our SkillsFuture Festival.<br><br>Click here to find out more: [https://go.gov.sg/nesff2022](https://go.gov.sg/nesff2022)<br><br>
+||<strong>Title: Make Lifelong Learning our Way of Life <br>  Date:      15 &amp; 16 July 2023 <br> Time: 10:00am – 7:00pm / 10.00am - 4.00pm<br> Venue: <br>Kampung Admiralty<br>676 Woodlands Drive 71,<br>Singapore 730676<br></strong> <br><br> Get to know more about Green, Care and Digital Economies, and visit onsite job interviews and training providers.<br><br>Participate in our fringe activities and learn about sustainability.<br><br>Get attractive freebies with every completed game card. <br><br>Pre-register for industry talks featuring healthcare, community care, social services sectors and more: [https://go.gov.sg/sfanorthwest](https://go.gov.sg/sfanorthwest)<br><br>Click here to register for the job fair at North West: [https://go.gov.sg/sff-e2i-northwest](https://go.gov.sg/sff-e2i-northwest)<br><br>
 
 ## North East CDC
 
