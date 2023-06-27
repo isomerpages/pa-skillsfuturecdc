@@ -21,8 +21,9 @@ sections:
       background: /images/FUTURE.png
   - infopic:
       subtitle: ABOUT SKILLSFUTURE@CDC 2023
-      description: Discover the opportunities in the growth economies and take charge
-        of your learning at this year's SkillsFuture@CDC.
+      description: Discover what are the opportunities in the digital, green & care
+        economy and take charge of your skills learning at this year's
+        SkillsFuture@CDC.
       button: Learn More
       url: /about
       alt: Image alt text
