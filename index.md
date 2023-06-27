@@ -12,7 +12,7 @@ sections:
       title: SkillsFuture @ CDC 2023
       url: /about
       key_highlights:
-        - title: SkillsFuture@CDC Festival Events
+        - title: SkillsFuture@CDC Events
           description: ""
           url: /events
       background: /images/FUTURE.png
