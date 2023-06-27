@@ -9,4 +9,4 @@ SkillsFuture@CDC 2023 will take place from 10 July – 5 August 2023, with the f
 
 To find out more about the SkillsFuture Festivals organised by the CDCs, [click here.](/events)
 
-![SFA Logo Lockup](/images/SFA%20Logo%20Lockup.png)
+![](/images/sff@cdc%202023%20coy%20logo.jpg)
