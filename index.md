@@ -26,7 +26,7 @@ sections:
       button: Learn More
       url: /about
       alt: Image alt text
-      image: /images/future-01.jpg
+      image: /images/skills - 01.jpg
   - infopic:
       title: SkillsFuture Festival Events
       description: From 4 July – 18 August 2023,  take part in the various
