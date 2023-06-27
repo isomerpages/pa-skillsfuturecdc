@@ -30,18 +30,10 @@ sections:
       image: /images/(NEW) SFA BANNER.png
   - infopic:
       title: SkillsFuture Festival Events
-      description: From 5 July – 14 August 2022,  take part in the various
+      description: From 4 July – 18 August 2023,  take part in the various
         SkillsFuture Festivals across the 5 districts.
       button: View event line-up
       url: /events
       image: /images/RECRUITMENT.jpg
       alt: Image alt text
-  - infopic:
-      title: SkillsFuture Webinar Series
-      description: Join our SkillsFuture webinar series to get new perspectives and
-        confidence to navigate into the future that you look forward to.
-      button: Join now
-      alt: Image alt text
-      url: /webinar
-      image: /images/VID CONFERENCE.jpg
 ---
