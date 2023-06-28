@@ -15,7 +15,7 @@ sections:
         - title: SkillsFuture@CDC Events
           description: ""
           url: /events
-      background: /images/hero-banner.png
+      background: /images/FUTURE.png
   - infopic:
       subtitle: ABOUT SKILLSFUTURE@CDC 2023
       description: Discover what are the opportunities in the growth economies and
