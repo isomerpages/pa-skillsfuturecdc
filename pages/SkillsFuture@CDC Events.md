@@ -3,13 +3,6 @@ title: SkillsFuture@CDC Events
 permalink: /events/
 description: SkillsFuture Festival Event
 ---
-## South East CDC
-
-
-|  |  | 
-| -------- | -------- |
-| |<strong>Title: Skills &amp; Learning Festival @ South East <br>  Date:      10 &amp; 11 July 2023 <br> Time: 9:00am – 8:00pm / 10.00am - 5.00pm<br> Venue: </strong> <br>Heartbeat @ Bedok<br>11 Bedok North Street 1, <br>Singapore 469662<br><br>     Ever wondered what are the essential skills relevant to the growth economies? Join us at the Skills &amp; Learning Festival @ South East to find out more and get the opportunity to learn them for free.<br><br>Click here to find out more: [https://go.gov.sg/sesff23](https://go.gov.sg/sesff23)<br> <br>
-
 ## North West CDC
 
 
@@ -37,3 +30,10 @@ description: SkillsFuture Festival Event
 |  |  | 
 | -------- | -------- |
 ||<strong>Title: All Things Digital <br>  Date:    4 &amp; 5 August 2023 <br> Time: 10:00am – 10:00pm<br> Venue: </strong> <br>Vivo City (Outdoor Fountain)<br> 1 HarbourFront Walk,<br> Singapore 098585<br><br>  Raise awareness on skills and development of digitalisation in the care and green economy. <br><br>This event will feature skills demonstration booths and activities, informative panels and employers providing jobs on these economies. <br><br>It will also feature various SkillsFuture initiatives to spread the message of skills upgrading and lifelong learning to various profiles of residents.<br><br>Click here to find out more: [https://go.gov.sg/swsff2023](https://go.gov.sg/swsff2023)<br> <br>
+
+## South East CDC
+
+
+|  |  | 
+| -------- | -------- |
+| |<strong>Title: Skills &amp; Learning Festival @ South East <br>  Date:      TBA <br> Time: TBA<br> Venue: TBA</strong> <br><br><br><br><br>     Ever wondered what are the essential skills relevant to the growth economies? Join us at the Skills &amp; Learning Festival @ South East to find out more and get the opportunity to learn them for free.<br><br>Click here to find out more: [https://go.gov.sg/sesff23](https://go.gov.sg/sesff23)<br> <br>
