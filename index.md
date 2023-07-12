@@ -4,9 +4,7 @@ title: SkillsFuture@CDC
 description: SkillsFuture@ CDC
 image: /images/isomer-logo.svg
 permalink: /
-notification: There will be a scheduled downtime on all CDC websites on 17
-  April. The website may not be available during this period. We apologise for
-  the inconvenience caused.
+notification: ""
 sections:
   - hero:
       title: SkillsFuture@CDC 2023
