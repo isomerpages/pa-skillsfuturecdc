@@ -1,5 +1,5 @@
-title: SkillsFuture@CDC
-url: ""
+title: SkillsFuture Festival @CDC
+url: https://skillsfuture.cdc.gov.sg
 favicon: /images/SkillsFuture CDC.png
 colors:
   primary-color: "#46afc6"
@@ -15,7 +15,7 @@ colors:
       color: "#918884"
     - title: media-color-five
       color: "#65615f"
-description: SkillsFuture@ CDC
+description: SkillsFuture Festival @ CDC
 permalink: none
 baseurl: ""
 exclude:
@@ -56,3 +56,4 @@ shareicon: /images/isomer-logo.svg
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
