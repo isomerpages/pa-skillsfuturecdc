@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: SkillsFuture@CDC
-description: SkillsFuture@ CDC
+title: SkillsFuture Festival @CDC
+description: SkillsFuture Festival @ CDC
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
