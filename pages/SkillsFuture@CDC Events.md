@@ -36,4 +36,4 @@ description: SkillsFuture Festival Event
 
 |  |  | 
 | -------- | -------- |
-| |<strong>Title: Skills &amp; Learning Festival @ South East <br>  Date:      TBA <br> Time: TBA<br> Venue: TBA</strong> <br><br>Ever wondered what are the essential skills relevant to the growth economies? Join us at the Skills &amp; Learning Festival @ South East to find out more and get the opportunity to learn them for free.<br><br>Click here to find out more: [https://go.gov.sg/sesff23](https://go.gov.sg/sesff23)<br> <br>
+| |<strong>Title: Skills &amp; Learning Festival @ South East <br>  Date: 13 &amp;14 August 2023 <br> Time: 9:00am - 5:00pm<br> Venue: Heartbeat@Bedok</strong> <br><br>Ever wondered what are the essential skills relevant to the growth economies? Join us at the Skills &amp; Learning Festival @ South East to find out more and get the opportunity to learn them for free.<br><br>Click here to find out more: [https://go.gov.sg/sesff23](https://go.gov.sg/sesff23)<br> <br>
