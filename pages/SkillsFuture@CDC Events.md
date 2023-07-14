@@ -8,7 +8,7 @@ description: SkillsFuture Festival Event
 
 |  |  | 
 | -------- | -------- |
-||<strong>Title: Make Lifelong Learning our Way of Life <br>  Date:      15 &amp; 16 July 2023 <br> Time: 10:00am – 7:00pm / 10.00am - 4.00pm<br> Venue: <br>Kampung Admiralty<br>676 Woodlands Drive 71,<br>Singapore 730676<br></strong> <br><br> Get to know more about Green, Care and Digital Economies, and visit onsite job interviews and training providers. Participate in our fringe activities and learn about sustainability. Get attractive freebies with every completed game card. <br><br>Pre-register for industry talks featuring healthcare, community care, social services sectors and more: [https://go.gov.sg/sfanorthwest](https://go.gov.sg/sfanorthwest)<br><br>Click here to register for the job fair at North West: [https://go.gov.sg/sff-e2i-northwest](https://go.gov.sg/sff-e2i-northwest)<br><br>
+||<strong>Title: SkillsFuture Festival @ North West <br>  Date:      15 &amp; 16 July 2023 <br> Time: 10:00am – 7:00pm / 10.00am - 4.00pm<br> Venue: <br>Kampung Admiralty<br>676 Woodlands Drive 71,<br>Singapore 730676<br></strong> <br><br> Make lifelong learning our way of life. <br><br>Get to know more about Green, Care and Digital Economies, and explore job opportunities and courses. Participate in our fringe activities and learn about sustainability. Get attractive freebies with every completed game card. <br><br>Pre-register for industry talks featuring healthcare, community care, social services sectors and more: [https://go.gov.sg/sfanorthwest](https://go.gov.sg/sfanorthwest)<br><br>Click here to register for the job fair at North West: [https://go.gov.sg/sff-e2i-northwest](https://go.gov.sg/sff-e2i-northwest)<br><br>
 
 ## North East CDC
 
