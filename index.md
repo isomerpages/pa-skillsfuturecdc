@@ -1,48 +1,34 @@
 ---
 layout: homepage
-title: SkillsFuture@CDC
-description: SkillsFuture@ CDC
+title: SkillsFuture Festival @CDC
+description: SkillsFuture Festival @ CDC
 image: /images/isomer-logo.svg
 permalink: /
-notification: There will be a scheduled downtime on all CDC websites on 17
-  April. The website may not be available during this period. We apologise for
-  the inconvenience caused.
+notification: ""
 sections:
   - hero:
-      title: SkillsFuture @ CDC 2022
-      subtitle: Be Future Ready
-      background: /images/FUTURE.png
+      title: SkillsFuture Festival @ CDC 2023
       url: /about
       key_highlights:
-        - title: SkillsFuture@CDC Festival Events
+        - title: SkillsFuture Festival @ CDC Events
           description: ""
           url: /events
-        - title: SkillsFuture Webinar Series
-          description: ""
-          url: /webinar
+      background: /images/FUTURE.png
   - infopic:
-      title: Be Future Ready
-      subtitle: ABOUT SKILLSFUTURE@CDC 2022
+      subtitle: ABOUT SFF@CDC 2023
       description: Discover the opportunities in the growth economies and take charge
-        of your learning at this year's SkillsFuture@CDC.
+        of your skills learning at this year's SkillsFuture Festival @ CDC
+        events.
       button: Learn More
       url: /about
       alt: Image alt text
-      image: /images/(NEW) SFA BANNER.png
+      image: /images/skills - 01.jpg
   - infopic:
-      title: SkillsFuture Festival Events
-      description: From 5 July – 14 August 2022,  take part in the various
+      title: SkillsFuture Festival @ CDC Events
+      description: From 15 July – 14 August 2023, take part in the various
         SkillsFuture Festivals across the 5 districts.
       button: View event line-up
       url: /events
       image: /images/RECRUITMENT.jpg
       alt: Image alt text
-  - infopic:
-      title: SkillsFuture Webinar Series
-      description: "Join our SkillsFuture webinar series to get new perspectives and
-        confidence to navigate into the future that you look forward to. "
-      button: Join now
-      alt: Image alt text
-      url: /webinar
-      image: /images/VID CONFERENCE.jpg
 ---
