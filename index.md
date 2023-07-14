@@ -24,7 +24,7 @@ sections:
       alt: Image alt text
       image: /images/skills - 01.jpg
   - infopic:
-      title: SkillsFuture @ CDC Events
+      title: SkillsFuture Festival @ CDC Events
       description: From 15 July – 14 August 2023, take part in the various
         SkillsFuture Festivals across the 5 districts.
       button: View event line-up
