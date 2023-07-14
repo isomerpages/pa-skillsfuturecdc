@@ -15,9 +15,10 @@ sections:
           url: /events
       background: /images/FUTURE.png
   - infopic:
-      subtitle: ABOUT SKILLSFUTURE @ CDC 2023
+      subtitle: ABOUT SFF@CDC 2023
       description: Discover the opportunities in the growth economies and take charge
-        of your skills learning at this year's SkillsFuture @ CDC events.
+        of your skills learning at this year's SkillsFuture Festival @ CDC
+        events.
       button: Learn More
       url: /about
       alt: Image alt text
