@@ -22,14 +22,14 @@ description: SkillsFuture Festival Event
 
 |  |  | 
 | -------- | -------- |
-| |<strong>Title:   Skills for Good Festival 2023 <br>  Date:    28 &amp; 29 July 2023 <br> Time: 10:00am – 8:00pm<br> Venue: <br>Bishan Junction 8, Level 2 Atrium<br>9 Bishan Place<br>Singapore 579837</strong><br>  <br>Join us to learn trends and skills in the Green, Digital and Care Economies!<br><br>Click here to find out more: [https://go.gov.sg/sfg2023](https://go.gov.sg/sfg2023)<br> <br>
+| |<strong>Title:   Skills for Good Festival 2023 <br>  Date:    28 &amp; 29 July 2023 <br> Time: 10:00am – 8:00pm<br> Venue: <br>Bishan Junction 8, Level 2 Atrium<br>9 Bishan Place<br>Singapore 579837</strong><br>  <br> Organised by Central Singapore Community Development Council, the ‘Skills For Good Festival 2023’ aims to promote skills for the good of Self, Community and for Life. <br> Join us to learn about trends and skills in the GREEN, DIGITAL and CARE economies. <br><br>📍 Key Highlights 📍<br>✅ Sign up for Learning Journeys to a sustainable crab farm, Maritime Drone Estate and more! (pre-registration required)<br>✅ Try your hand at simple repair of household items<br>✅ Learn caregiving tips for bedridden patients<br>✅ Explore courses in the growth economies<br>✅ Get complimentary consultation with Career Coaches and Skills Ambassadors<br>✅ Participate in stage games/ demonstrations and stand to win exciting prizes <br><br>Best part of all... the&nbsp; on-site event activities are COMPLIMENTARY!<br><br>Visit [https://go.gov.sg/sfg2023](https://go.gov.sg/sfg2023) to find out more!<br> <br>
 
 ## South West CDC
 
 
 |  |  | 
 | -------- | -------- |
-||<strong>Title: All Things Digital <br>  Date:    4 &amp; 5 August 2023 <br> Time: 10:00am – 10:00pm<br> Venue: </strong> <br>Vivo City (Outdoor Fountain)<br> 1 HarbourFront Walk,<br> Singapore 098585<br><br>  Raise awareness on skills development and digitalisation in the Care and Green economies. <br><br>This event will feature skills demonstration booths and activities, informative panels and employers providing jobs on these economies. <br><br>It will also feature various SkillsFuture initiatives to spread the message of skills upgrading and lifelong learning to various profiles of residents.<br><br>Click here to find out more: [https://go.gov.sg/swsff2023](https://go.gov.sg/swsff2023)<br> <br>
+||<strong>Title: All Things Digital <br>  Date:    6 &amp; 7 August 2023 <br> Time: 10:00am – 10:00pm<br> Venue: </strong> <br>Vivo City (Outdoor Fountain)<br> 1 HarbourFront Walk,<br> Singapore 098585<br><br>  Raise awareness on skills development and digitalisation in the Care and Green economies. <br><br>This event will feature skills demonstration booths and activities, informative panels and employers providing jobs on these economies. <br><br>It will also feature various SkillsFuture initiatives to spread the message of skills upgrading and lifelong learning to various profiles of residents.<br><br>Click here to find out more: [https://go.gov.sg/swsff2023](https://go.gov.sg/swsff2023)<br> <br>
 
 ## South East CDC
 
