@@ -13,6 +13,7 @@ sections:
           description: ""
           url: /events
       background: /images/Masthead_2024__1_.jpg
+      variant: image
   - infopic:
       subtitle: ABOUT SFF@CDC 2024
       description: Discover the opportunities in the growth economies and take charge
