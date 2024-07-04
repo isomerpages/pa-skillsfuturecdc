@@ -12,7 +12,7 @@ sections:
         - title: SkillsFuture Festival @ CDC Events
           description: ""
           url: /events
-      background: /images/NWC414_SkillsFuture_Festival_Website_Banner_FA_Masthead_v2__Resized_2_.jpg
+      background: /images/Masthead_2024__1_.jpg
   - infopic:
       subtitle: ABOUT SFF@CDC 2024
       description: Discover the opportunities in the growth economies and take charge
