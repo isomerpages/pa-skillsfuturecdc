@@ -128,7 +128,8 @@ inspires, and empowers you for better upskilling and career success!</p>
 </p>
 <p>Join us at the Skills For Good Festival 2024 from 26 to 27 July 2024,
 from 10am to 9pm, at Plaza Singapura Atrium to learn about trends and skills
-in the Green, Digital and Care economies!</p>
+in the Green, Digital and Care economies! This event is held in conjunction
+with the Launch of SkillsFuture @ CDCs.</p>
 <p>Embark on an exciting learning journey at the event to:</p>
 <p>• Explore skills in demand and job opportunities in the growth economies.
 Attend on-site talks to learn skills that you can use in your daily life
