@@ -99,7 +99,7 @@ aged 40 and above, with tailored Career Transition Support. Register for
 specialized workshops, SkillsFuture Career Transition Programme (SCTP)
 courses and discover other valuable resources designed to equip you for
 a smoother career transition. Don’t miss this vibrant event that informs,
-inspires, and empowers you for better upskilling and career success!<strong><br> <br><br>  <br><br><br><br></strong>
+inspires, and empowers you for better upskilling and career success!<strong><br><br><br><br><br><br><br></strong>
 </p>
 </td>
 </tr>
@@ -125,28 +125,29 @@ inspires, and empowers you for better upskilling and career success!<strong><br>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Title: Skills for Good Festival 2023 <br>Date: 28 &amp; 29 July 2023 <br>Time: 10:00am – 8:00pm<br>Venue: <br>Bishan Junction 8, Level 2 Atrium<br>9 Bishan Place<br>Singapore 579837</strong>
+<p><strong>Title: SkillsFuture Festival @ CDCs (Skills for Good Festival @ Central</strong>)<strong> <br>Date: 26 &amp; 27 July 2024<br>Time: 10:00am – 9:00pm<br>Venue: Plaza Singapura (Main Atrium)</strong>
+</p>
+<p>Join us at the Skills For Good Festival 2024 from 26 to 27 July 2024,
+from 10am to 9pm, at Plaza Singapura Atrium to learn about trends and skills
+in the Green, Digital and Care economies!</p>
+<p>Embark on an exciting learning journey at the event to:</p>
+<p>• Explore skills in demand and job opportunities in the growth economies.
+Attend on-site talks to learn skills that you can use in your daily life
+such as culinary skills, home repair hacks as well as gain insights into
+different industries from digital to social services and more.</p>
+<p>• Experience through the lens of industry experts at the interactive engagement
+booths and learn how these skills can be used for self-development, career
+progression or to serve the community. Speak to industry practitioners
+or join us for the learning journeys to understand more about the industry.</p>
+<p>• Empower yourself by signing up for courses and seeking personalized
+guidance from skills and career advisors. Find out more about SkillsFuture
+initiatives (such as SkillsFuture Level Up Programme and other resources
+to support your upskilling journey.</p>
+<p>You can also redeem an exclusive souvenir upon completion of activities
+at the event!</p>
+<p>Register your interest now! &lt;&lt;link to registration page&gt;&gt;
 <br>
-<br>Organised by Central Singapore Community Development Council, the ‘Skills
-For Good Festival 2023’ aims to promote skills for the good of Self, Community
-and for Life.
-<br>Join us to learn about trends and skills in the GREEN, DIGITAL and CARE
-economies.
 <br>
-<br>📍 Key Highlights 📍
-<br>✅ Sign up for Learning Journeys to a sustainable crab farm, Maritime Drone
-Estate and more! (pre-registration required)
-<br>✅ Try your hand at simple repair of household items
-<br>✅ Learn caregiving tips for bedridden patients
-<br>✅ Explore courses in the growth economies
-<br>✅ Get complimentary consultation with Career Coaches and Skills Ambassadors
-<br>✅ Participate in stage games/ demonstrations and stand to win exciting
-prizes
-<br>
-<br>Best part of all... the&nbsp; on-site event activities are COMPLIMENTARY!
-<br>
-<br>Visit <a href="https://go.gov.sg/sfg2023" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sfg2023</a> to
-find out more!
 <br>
 <br>
 </p>
