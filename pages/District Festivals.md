@@ -126,6 +126,10 @@ inspires, and empowers you for better upskilling and career success!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Title: Skills for Good Festival @ Central<br>Date: 26 &amp; 27 July 2024<br>Time: 10:00am – 9:00pm<br>Venue: Plaza Singapura (Main Atrium)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CS_CDC.jpg">
+</div>
 <p>Join us at the Skills For Good Festival 2024 from 26 to 27 July 2024,
 from 10am to 9pm, at Plaza Singapura Atrium to learn about trends and skills
 in the Green, Digital and Care economies! This event is held in conjunction
