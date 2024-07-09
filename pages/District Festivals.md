@@ -83,25 +83,23 @@ scan the QR code below:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Title: Small Step, Big Impact - For a Greener Tomorrow<br>Date: 15 &amp; 16 July 2023 <br>Time: 10:00am – 4:00pm<br>Venue: <br>Our Tampines Hub, Festive East <br>1 Tampines Walk<br>Singapore 528523</strong>
-<br>
-<br>SkillsFuture Festival @ North East 2023 focuses on educating and empowering
-our new generation of learners and custodians in the green and sustainability
-economy. Residents can expect fun and engaging activities and learn what
-it takes to embark on a green and sustainable journey with Singapore together.
-<br>
-<br>Through this festival, our residents can walk home with newfound knowledge,
-tips, and inspiration on how to contribute to green efforts and adopt sustainable
-habits.
-<br>
-<br>Join us on a learning journey to an urban farm and learn how a group of
-urban farmers take the lead by cultivating home-grown produce as part of
-their effort towards sustainability. You could support this effort by purchasing
-them at the end of the tour.
-<br>
-<br>Click here to register without delay as seats are limited: <a href="https://go.gov.sg/sffne2023" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sffne2023</a>
-<br>
-<br>
+<p><strong>Title: Career &amp; Skills Level-Up SkillsFuture Festival @ North East CDC<br>Date: 03 &amp; 04 August 2024 <br>Time: 10:00am – 6:00pm<br>Venue: <br>Sengkang Grand Mall (Level 1 Atrium &amp; Buangkok CC Lev 3 Event Hall</strong>)</p>
+<p><strong><br></strong>Join us for this year’s Career &amp; Skills Level
+Up – SkillsFuture Festival @ North East on 3-4 Aug 2024 at Sengkang Grand
+Mall, an exciting and energizing event designed to boost your career growth
+and enhance your skillsets! Explore a variety of SkillsFuture initiatives,
+including the newly announced SkillsFuture Level-Up Programme, SkillsFuture
+Advice support, and free one-to-one consultation with Skills Ambassadors.</p>
+<p>Immerse yourself in hands-on workshops, inspiring informational sessions
+and engaging exhibits that will motivate you to embrace new skills in thriving
+industries. Seize the opportunity to connect directly with potential employers
+with available job openings and uncover exciting new career opportunities.</p>
+<p>This year’s festival focuses on supporting Mid-Careerists, particularly
+aged 40 and above, with tailored Career Transition Support. Register for
+specialized workshops, SkillsFuture Career Transition Programme (SCTP)
+courses and discover other valuable resources designed to equip you for
+a smoother career transition. Don’t miss this vibrant event that informs,
+inspires, and empowers you for better upskilling and career success!<strong><br> <br><br>  <br><br><br><br></strong>
 </p>
 </td>
 </tr>
