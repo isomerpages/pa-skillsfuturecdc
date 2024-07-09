@@ -24,6 +24,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Title: SkillsFuture Festival @ North West<br>Date: 03 &amp; 04 August 2024 <br>Time: 10:00am – 6:00pm/10:00am - 5:00pm<br>Venue: Kampung Admiralty, Community Plaza, 676 Woodlands Drive 71, Singapore 730676</strong>
+</p>
 <p>Join Us for the SkillsFuture Festival @ North West!</p>
 <p>The highly anticipated SkillsFuture Festival @ North West returns on 3
 to 4 August 2024 at Kampung Admiralty, Community Plaza. This year's festival
