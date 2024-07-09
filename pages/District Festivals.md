@@ -49,7 +49,6 @@ your career transition or progression</p>
 <p>Exclusive Talks: Attend our talks on in-demand topics to stay ahead of
 industry trends. Register now via <a href="http://go.gov.sg/sfanorthwest" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sfanorthwest</a> or scan
 the QR code below:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NWCDC_workshop_1.jpg">
 </div>
