@@ -55,8 +55,9 @@ the QR code below:</p>
 <p>Job Vacancies: Don't miss out on job interview opportunities. Register
 at <a href="go.gov.sg/sff-nwcdc" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sff-nwcdc </a>or
 scan the QR code below:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_QR_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_QR_3.jpg">
 </div>
 </td>
 </tr>
