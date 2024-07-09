@@ -87,9 +87,9 @@ scan the QR code below:</p>
 <td rowspan="1" colspan="1">
 <p><strong>Title: Career &amp; Skills Level-Up SkillsFuture Festival @ North East CDC<br>Date: 03 &amp; 04 August 2024 <br>Time: 10:00am – 6:00pm<br>Venue: Sengkang Grand Mall (Level 1 Atrium &amp; Buangkok CC Level 3 Event Hall</strong>)</p>
 <p><strong><br></strong>Join us for this year’s Career &amp; Skills Level
-Up – SkillsFuture Festival @ North East on 3-4 Aug 2024 at Sengkang Grand
-Mall, an exciting and energizing event designed to boost your career growth
-and enhance your skillsets! Explore a variety of SkillsFuture initiatives,
+Up – SkillsFuture Festival @ North East on 3 to 4 Aug 2024 at Sengkang
+Grand Mall, an exciting and energizing event designed to boost your career
+growth and enhance your skillsets! Explore a variety of SkillsFuture initiatives,
 including the newly announced SkillsFuture Level-Up Programme, SkillsFuture
 Advice support, and free one-to-one consultation with Skills Ambassadors.</p>
 <p>Immerse yourself in hands-on workshops, inspiring informational sessions
