@@ -101,8 +101,7 @@ aged 40 and above, with tailored Career Transition Support. Register for
 specialized workshops, SkillsFuture Career Transition Programme (SCTP)
 courses and discover other valuable resources designed to equip you for
 a smoother career transition. Don’t miss this vibrant event that informs,
-inspires, and empowers you for better upskilling and career success!<strong><br><br><br><br><br><br><br></strong>
-</p>
+inspires, and empowers you for better upskilling and career success!</p>
 </td>
 </tr>
 </tbody>
