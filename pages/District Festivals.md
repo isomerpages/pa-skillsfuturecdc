@@ -57,9 +57,8 @@ the QR code below:</p>
 at <a href="go.gov.sg/sff-nwcdc" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sff-nwcdc </a>or
 scan the QR code below:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_sff_nwcdc__002_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_QR.jpg">
 </div>
-<p></p>
 <p></p>
 </td>
 </tr>
