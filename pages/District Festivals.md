@@ -49,17 +49,16 @@ your career transition or progression</p>
 <p>Exclusive Talks: Attend our talks on in-demand topics to stay ahead of
 industry trends. Register now via <a href="http://go.gov.sg/sfanorthwest" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sfanorthwest</a> or scan
 the QR code below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_sff_nwcdc__002_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NWCDC_workshop_1.jpg">
+</div>
 <p>Job Vacancies: Don't miss out on job interview opportunities. Register
 at <a href="go.gov.sg/sff-nwcdc" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sff-nwcdc </a>or
 scan the QR code below:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_QR.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_QR_2.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
