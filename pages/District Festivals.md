@@ -134,27 +134,17 @@ inspires, and empowers you for better upskilling and career success!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CS_CDC.jpg">
 </div>
-<p>Join us at the Skills For Good Festival 2024 from 26 to 27 July 2024,
-from 10am to 9pm, at Plaza Singapura Atrium to learn about trends and skills
-in the Green, Digital and Care economies! This event is held in conjunction
-with the Launch of SkillsFuture @ CDCs.</p>
-<p>Embark on an exciting learning journey at the event to:</p>
-<p>• Explore skills in demand and job opportunities in the growth economies.
-Attend on-site talks to learn skills that you can use in your daily life
-such as culinary skills, home repair hacks as well as gain insights into
-different industries from digital to social services and more.</p>
-<p>• Experience through the lens of industry experts at the interactive engagement
-booths and learn how these skills can be used for self-development, career
-progression or to serve the community. Speak to industry practitioners
-or join us for the learning journeys to understand more about the industry.</p>
-<p>• Empower yourself by signing up for courses and seeking personalized
-guidance from skills and career advisors. Find out more about SkillsFuture
-initiatives (such as SkillsFuture Level Up Programme and other resources
-to support your upskilling journey.</p>
-<p>You can also redeem an exclusive souvenir upon completion of activities
-at the event!</p>
-<p>Register your interest now! <a href="go.gov.sg/sfg2024-reg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sfg2024-reg</a>
-</p>
+<p>Organised by Central Singapore Community Development Council, the <strong>Skills for Good Festival 2024</strong> aims
+to promote skills for the good of&nbsp;<strong>Self</strong>,&nbsp;<strong>Community</strong>&nbsp;and
+for&nbsp;<strong>Life</strong>.</p>
+<p>The 2024’s edition will feature new learning journeys where participants
+will go on learning field trips across Singapore to learn firsthand from
+industry experts about trends, jobs and skills&nbsp;in Singapore’s key
+growth areas – the&nbsp;<strong>Green, Digital and Care economies</strong>.</p>
+<p>Register at <a href="http://go.gov.sg/sfg2024-reg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sfg2024-reg</a> for
+the event now to redeem a free mystery gift! * While stocks last</p>
+<p>To find out more about the event or register for learning journeys, please
+visit <a href="go.gov.sg/sfg2024" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sfg2024</a>.</p>
 <h4>Engagement Booths</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sfg_05.jpg">
