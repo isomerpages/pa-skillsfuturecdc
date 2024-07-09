@@ -81,7 +81,7 @@ visit <a href="go.gov.sg/sfg2024" rel="noopener noreferrer nofollow" target="_bl
 <p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong>Title: <br>Date: <br>Time: <br>Venue: </strong>
+<p><strong>Title: SkillsFuture Festival @ South West 2024<br>Date: 02 - 03 August 2024<br>Time: 10:00am - 5:30pm<br>Venue: Keat Hong Community Club</strong>
 </p>
 <p></p>
 <p></p>
@@ -216,13 +216,10 @@ scan the QR code below:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Title: Skills &amp; Learning Festival @ South East <br>Date: 13 &amp;14 August 2023 <br>Time: 9:00am - 5:00pm<br>Venue: Heartbeat@Bedok</strong> 
+<p><strong>Title: Skills &amp; Learning Festival @ South East 2024<br>Date: 17 - 18 August 2024 <br>Time: 10:00am - 8:00pm<br>Venue: Kallang Wave</strong> 
 <br>
-<br>Ever wondered what are the essential skills relevant to the growth economies?
-Join us at the Skills &amp; Learning Festival @ South East to find out
-more and get the opportunity to learn them for free.
 <br>
-<br>Click here to find out more: <a href="https://go.gov.sg/sesff23" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sesff23</a>
+<br>
 <br>
 <br>
 </p>
