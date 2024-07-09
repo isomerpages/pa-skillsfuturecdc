@@ -147,8 +147,7 @@ initiatives (such as SkillsFuture Level Up Programme and other resources
 to support your upskilling journey.</p>
 <p>You can also redeem an exclusive souvenir upon completion of activities
 at the event!</p>
-<p>Register your interest now! &lt;&lt;link to registration page&gt;&gt;
-<br>
+<p>Register your interest now! <a href="go.gov.sg/sfg2024-reg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sfg2024-reg</a>
 <br>
 <br>
 <br>
