@@ -148,10 +148,19 @@ to support your upskilling journey.</p>
 <p>You can also redeem an exclusive souvenir upon completion of activities
 at the event!</p>
 <p>Register your interest now! <a href="go.gov.sg/sfg2024-reg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sfg2024-reg</a>
-<br>
-<br>
-<br>
 </p>
+<h4>Engagement Booths</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sfg_05.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sfg_06.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sfg_07.jpg">
+</div>
 </td>
 </tr>
 </tbody>
