@@ -159,6 +159,10 @@ inspires, and empowers you for better upskilling and career success!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Title: SkillsFuture Festival @ North West<br>Date: 03 &amp; 04 August 2024 <br>Time: 10:00am – 6:00pm/10:00am - 5:00pm<br>Venue: Kampung Admiralty, Community Plaza, 676 Woodlands Drive 71, Singapore 730676</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poster_.png">
+</div>
 <p>Join Us for the SkillsFuture Festival @ North West!</p>
 <p>The highly anticipated SkillsFuture Festival @ North West returns on 3
 to 4 August 2024 at Kampung Admiralty, Community Plaza. This year's festival
@@ -216,7 +220,7 @@ scan the QR code below:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Title: Skills &amp; Learning Festival @ South East 2024<br>Date: 17 - 18 August 2024 <br>Time: 10:00am - 8:00pm<br>Venue: Kallang Wave</strong> 
+<p><strong>Title: Skills &amp; Learning Festival @ South East 2024<br>Date: 17 - 18 August 2024 <br>Time: 10:00am - 8:00pm<br>Venue: Kallang Wave</strong>
 </p>
 <p>Organised by South East Community Development Council, the ‘Skills &amp;
 Learning Festival @ South East 2024’ aims to promote skills in the DIGITAL,
