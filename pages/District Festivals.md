@@ -217,6 +217,16 @@ scan the QR code below:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Title: Skills &amp; Learning Festival @ South East 2024<br>Date: 17 - 18 August 2024 <br>Time: 10:00am - 8:00pm<br>Venue: Kallang Wave</strong> 
+</p>
+<p>Organised by South East Community Development Council, the ‘Skills &amp;
+Learning Festival @ South East 2024’ aims to promote skills in the DIGITAL,
+CARE and GREEN economies, as well as practical trades and craftsmen skills
+for our daily use. Through this festival, residents can walk home with
+newfound knowledge, tips, and inspiration through our exhibits and experiential
+hand-on learning activities. To take your personal and career to the next
+level, residents can also join our exciting learning journeys, organised
+in conjunction with the Festival to help residents discover new skills
+and explore new career opportunities. Click here to find out more: <a href="https://go.gov.sg/sesff24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sesff24</a>
 <br>
 <br>
 <br>
