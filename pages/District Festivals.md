@@ -84,6 +84,10 @@ visit <a href="go.gov.sg/sfg2024" rel="noopener noreferrer nofollow" target="_bl
 <p><strong>Title: SkillsFuture Festival @ South West 2024<br>Date: 02 - 03 August 2024<br>Time: 10:00am - 5:30pm<br>Venue: Keat Hong Community Club</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SW_poster.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
