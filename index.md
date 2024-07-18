@@ -12,7 +12,7 @@ sections:
         - title: SkillsFuture Festival @ CDC Events
           description: ""
           url: /events
-      background: /images/Masthead_2024__1_.jpg
+      background: /images/NWC414_SkillsFuture_Festival_Website_Banner_FA_Masthead_v3.png
       variant: image
   - infopic:
       subtitle: ABOUT SFF@CDC 2024
@@ -29,6 +29,6 @@ sections:
         SkillsFuture Festivals across the 5 districts.
       button: View event line-up
       url: /events
-      image: /images/NWC414_SkillsFuture_Festival_Website_Banner_FA_Banner_2_v2__Resized_.jpg
+      image: /images/NWC414_SkillsFuture_Festival_Website_Banner_FA_Banner_2_v3.png
       alt: Image alt text
 ---
