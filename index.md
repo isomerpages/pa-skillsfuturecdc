@@ -29,6 +29,6 @@ sections:
         SkillsFuture Festivals across the 5 districts.
       button: View event line-up
       url: /events
-      image: /images/NWC414_SkillsFuture_Festival_Website_Banner_FA_Banner_2_v2__Resized_.jpg
+      image: /images/NWC414_SkillsFuture_Festival_Website_Banner_FA_Banner_2_v3.png
       alt: Image alt text
 ---
