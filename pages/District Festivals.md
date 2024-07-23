@@ -87,7 +87,13 @@ visit <a href="go.gov.sg/sfg2024" rel="noopener noreferrer nofollow" target="_bl
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SW_poster.png">
 </div>
-<p></p>
+<p>Take charge of your future! Join us at the SkillsFuture Festival @ South
+West 2024 to discover up and coming skills in the digital, green and care
+economies ✨ 📅 2 &amp; 3 August 2024 (Fri &amp; Sat) 🕙 10.00am – 5.30pm
+📍 Keat Hong CC, Foyer, 2 Choa Chu Kang Loop, Singapore 689687 Complete
+an event passport to redeem limited edition collaterals! 👉 Scan the QR
+code to learn more or visit <a href="https://go.gov.sg/swsff2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/swsff2024</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
