@@ -92,9 +92,11 @@ West 2024 to discover up and coming skills in the digital, green and care
 economies ✨ 📅 2 &amp; 3 August 2024 (Fri &amp; Sat) 🕙 10.00am – 5.30pm
 📍 Keat Hong CC, Foyer, 2 Choa Chu Kang Loop, Singapore 689687 Complete
 an event passport to redeem limited edition collaterals! 👉 Scan the QR
-code to learn more or visit <a href="https://go.gov.sg/swsff2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/swsff2024</a>
+code below to learn more or visit <a href="https://go.gov.sg/swsff2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/swsff2024</a>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_code_SW.jpg">
+</div>
 <p></p>
 <p></p>
 </td>
@@ -230,7 +232,7 @@ scan the QR code below:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Title: Skills &amp; Learning Festival @ South East 2024<br>Date: 17 - 18 August 2024 <br>Time: 10:00am - 8:00pm<br>Venue: Kallang Wave</strong>
+<p><strong>Title: Skills &amp; Learning Festival @ South East 2024<br>Date: 17 - 18 August 2024 <br>Time: 10:00am - 8:00pm<br>Venue: Kallang Wave Mall</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
