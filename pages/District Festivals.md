@@ -232,7 +232,7 @@ scan the QR code below:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Title: Skills &amp; Learning Festival @ South East 2024<br>Date: 17 - 18 August 2024 <br>Time: 10:00am - 8:00pm<br>Venue: Kallang Wave</strong>
+<p><strong>Title: Skills &amp; Learning Festival @ South East 2024<br>Date: 17 - 18 August 2024 <br>Time: 10:00am - 8:00pm<br>Venue: Kallang Wave Mall</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
