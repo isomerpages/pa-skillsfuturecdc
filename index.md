@@ -15,10 +15,9 @@ sections:
       background: /images/SF_CDC_banner_Resized_for_Isomer___small.png
       variant: image
   - infopic:
-      subtitle: ABOUT SFF@CDC 2024
+      subtitle: ABOUT SF@CDC 2024
       description: Discover the opportunities in the growth economies and take charge
-        of your skills learning at this year's SkillsFuture Festival @ CDC
-        events.
+        of your skills learning at this year's SkillsFuture@CDC events.
       button: Learn More
       url: /about
       alt: Image alt text
