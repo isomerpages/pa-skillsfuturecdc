@@ -39,7 +39,7 @@ growth areas – the&nbsp;<strong>Green, Digital and Care economies</strong>.</p
 <p>Register at <a href="http://go.gov.sg/sfg2024-reg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sfg2024-reg</a> for
 the event now to redeem a free mystery gift! * While stocks last</p>
 <p>To find out more about the event or register for learning journeys, please
-visit <a href="go.gov.sg/sfg2024" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sfg2024</a>.</p>
+visit <a href="https://go.gov.sg/sfg2024" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sfg2024</a>.</p>
 <h4>Engagement Booths</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sfg_05.jpg">
@@ -202,7 +202,7 @@ the QR code below:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NWCDC_workshop_1.jpg">
 </div>
 <p>Job Vacancies: Don't miss out on job interview opportunities. Register
-at <a href="go.gov.sg/sff-nwcdc" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sff-nwcdc</a> or
+at <a href="https://go.gov.sg/sff-nwcdc" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sff-nwcdc</a> or
 scan the QR code below:</p>
 <p></p>
 <div class="isomer-image-wrapper">
