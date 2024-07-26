@@ -23,9 +23,9 @@ sections:
       alt: Image alt text
       image: /images/NWC414_SkillsFuture_Festival_Website_Banner_FA_Banner_1_v2__Resize_.jpg
   - infopic:
-      title: SkillsFuture Festival @ CDC Events
+      title: SkillsFuture@CDC Events
       description: From 26 July – 18 August 2024, take part in the various
-        SkillsFuture Festivals across the 5 districts.
+        SkillsFuture festivals across the 5 districts.
       button: View event line-up
       url: /events
       image: /images/NWC414_SkillsFuture_Festival_Website_Banner_FA_Banner_2_v3.png
