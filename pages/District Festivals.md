@@ -144,7 +144,20 @@ aged 40 and above, with tailored Career Transition Support. Register for
 specialized workshops, SkillsFuture Career Transition Programme (SCTP)
 courses and discover other valuable resources designed to equip you for
 a smoother career transition. Don’t miss this vibrant event that informs,
-inspires, and empowers you for better upskilling and career success!</p>
+inspires, and empowers you for better upskilling and career success! Click
+here to find out more: <a href="https://go.gov.sg/careerandskills" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/careerandskills</a> or
+scan the QR code below:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_NE.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
