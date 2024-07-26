@@ -9,7 +9,7 @@ sections:
   - hero:
       url: /about
       key_highlights:
-        - title: SkillsFuture Festival @ CDC Events
+        - title: SkillsFuture@CDC Events
           description: ""
           url: /events
       background: /images/SF_CDC_banner_Resized_for_Isomer___small.png
