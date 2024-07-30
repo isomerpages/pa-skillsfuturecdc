@@ -12,7 +12,7 @@ sections:
         - title: SkillsFuture@CDC Events
           description: ""
           url: /events
-      background: /images/SF_CDC_banner_Resized_for_Isomer___small.png
+      background: /images/SF_CDC_banner_Resized_for_Isomer_2.jpg
       variant: image
   - infopic:
       subtitle: ABOUT SF@CDC 2024
