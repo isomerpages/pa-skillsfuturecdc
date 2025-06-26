@@ -15,8 +15,12 @@ sections:
         - title: SkillsFuture@CDC Events
           description: ""
           url: /events
-      background: /images/SF_CDC_banner_Resized_for_Isomer_2.jpg
+      background: /images/NECDC_Career___Skills_Level_Up_Masthead.jpg
       variant: image
+  - infobar:
+      title: SF@CDC 2025
+      id: infobar
+      description: Stay tuned for more information!
   - infopic:
       subtitle: ABOUT SF@CDC 2024
       description: Discover the opportunities in the growth economies and take charge
