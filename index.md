@@ -15,7 +15,7 @@ sections:
         - title: SkillsFuture@CDC Events
           description: ""
           url: /events
-      background: /images/SF_CDC_banner_Resized_for_Isomer_2.jpg
+      background: /images/NECDC_Career___Skills_Level_Up_Masthead.jpg
       variant: image
   - infopic:
       subtitle: ABOUT SF@CDC 2024
