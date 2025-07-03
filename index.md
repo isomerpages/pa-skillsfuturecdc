@@ -17,21 +17,17 @@ sections:
           url: /events
       background: /images/NECDC_Career___Skills_Level_Up_Masthead.jpg
       variant: image
-  - infobar:
-      title: SF@CDC 2025
-      id: infobar
-      description: Stay tuned for more information!
   - infopic:
-      subtitle: ABOUT SF@CDC 2024
       description: Discover the opportunities in the growth economies and take charge
         of your skills learning at this year's SkillsFuture@CDC events.
       button: Learn More
       url: /about
       alt: Image alt text
       image: /images/NWC414_SkillsFuture_Festival_Website_Banner_FA_Banner_1_v2__Resize_.jpg
+      title: About SF@CDC 2025
   - infopic:
       title: SkillsFuture@CDC Events
-      description: From 26 July – 18 August 2024, take part in the various
+      description: From 16 July – 18 August 2025, take part in the various
         SkillsFuture events across the 5 districts.
       button: View event line-up
       url: /events
