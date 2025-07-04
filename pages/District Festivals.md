@@ -10,6 +10,14 @@ variant: markdown
 <br><strong>Venue:</strong> Devan Nair Institute
 <br>
 </p>
+<p>Explore, Experience and Empower your future at SkillsFuture Festival @ South West 2025, where care, green, and digital skills take centre stage!<br>
+✅ Try hands-on workshops<br>
+✅ Connect with industry leaders<br>
+✅ Discover new career move — all under one roof!<br>
+Find out more at <a href="https://go.gov.sg/swsff2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/swsff2025</a></p>
+<p></p><div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SkillsFuture Festival @ South West 2025 Poster" src="/images/SFF25_SW.png">
+</div><p></p>
 <hr>
 <h2>South East CDC</h2>
 <p><strong>Skills &amp; Learning Festival @ South East 2025</strong>
@@ -31,7 +39,7 @@ Visit <a href="https://go.gov.sg/sffcs25" rel="noopener noreferrer nofollow" tar
 register or find out more about the event.</p>
 <p></p><div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SkillsFuture Festival @ Central 2025 Poster" src="/images/SFF25_EDM_Desktop_opt2_B.png">
-</div>
+</div><p></p>
 <hr>
 <h2>North West CDC</h2>
 <p><strong>SkillsFuture Festival @ North West</strong>
