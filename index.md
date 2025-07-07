@@ -23,7 +23,7 @@ sections:
       button: Learn More
       url: /about
       alt: Image alt text
-      image: /images/NWC414_SkillsFuture_Festival_Website_Banner_FA_Banner_1_v2__Resize_.jpg
+      image: /images/NECDC_Career___Skills_Level_Up_Banner_2.png
       title: About SF@CDC 2025
   - infopic:
       title: SkillsFuture@CDC Events
@@ -31,6 +31,6 @@ sections:
         SkillsFuture events across the 5 districts.
       button: View event line-up
       url: /events
-      image: /images/NWC414_SkillsFuture_Festival_Website_Banner_FA_Banner_2_v3.png
+      image: /images/NECDC_Career___Skills_Level_Up_Banner_1.png
       alt: Image alt text
 ---
