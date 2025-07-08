@@ -7,6 +7,7 @@ variant: markdown
 <h2>South West CDC</h2>
 <p><strong>SkillsFuture Festival @ South West 2025</strong>
 <br><strong>Date:</strong> 16 - 19 July 2025
+<br><strong>Time:</strong> 10:00am - 5:00pm
 <br><strong>Venue:</strong> Devan Nair Institute
 <br>
 </p>
