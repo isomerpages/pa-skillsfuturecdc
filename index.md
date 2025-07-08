@@ -27,7 +27,7 @@ sections:
       title: About SF@CDC 2025
   - infopic:
       title: SkillsFuture@CDC Events
-      description: From 16 July – 18 August 2025, take part in the various
+      description: From 16 July – 16 August 2025, take part in the various
         SkillsFuture events across the 5 districts.
       button: View event line-up
       url: /events
