@@ -39,7 +39,7 @@ Find out more at <a href="https://go.gov.sg/swsff2025" rel="noopener noreferrer 
 <br><strong>Venue:</strong> Junction 8, Level 2 Atrium
 <br>
 </p>
-<p>Organised by Central Singapore Community Development Council, the <strong>SkillsFuture Festival @ Central 2025</strong> (previously
+<p>Organised by Central Singapore Community Development Council, the SkillsFuture Festival @ Central 2025 (previously
 known as Skills For Good Festival) is back at Bishan, Junction 8 this year!
 Visit <a href="https://go.gov.sg/sffcs25" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sffcs25</a> to
 register or find out more about the event.</p>
