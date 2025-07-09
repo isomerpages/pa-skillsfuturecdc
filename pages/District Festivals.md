@@ -23,9 +23,14 @@ Find out more at <a href="https://go.gov.sg/swsff2025" rel="noopener noreferrer 
 <h2>South East CDC</h2>
 <p><strong>Skills &amp; Learning Festival @ South East 2025</strong>
 <br><strong>Date:</strong> 19 - 20 July 2025
+<br><strong>Time:</strong> 10:00am - 6:00pm
 <br><strong>Venue:</strong> Bedok Town Square
 <br>
 </p>
+<p>Join us at this exciting event that empowers individuals to explore future-ready skills and seize new career opportunities in a rapidly evolving economy. In support of SkillsFuture Festival, this event features Growth Economies and Career Skills, designed to spotlight high-demand industries and essential skills needed to thrive in today’s job market. Visit <a href="https://go.gov.sg/sesff2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sesff2025</a> to learn more.</p>
+<p></p><div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Skills &amp; Learning Festival @ South East 2025 Poster" src="/images/SSG_About_the_Event_v4_02.jpg">
+</div><p></p>
 <hr>
 <h2>Central Singapore CDC</h2>
 <p><strong>SkillsFuture Festival @ Central 2025</strong>
