@@ -15,7 +15,7 @@ variant: markdown
 ✅ Try hands-on workshops<br>
 ✅ Connect with industry leaders<br>
 ✅ Discover new career move — all under one roof!<br>
-Find out more at <a href="https://go.gov.sg/swsff2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/swsff2025</a></p>
+Find out more at <a href="https://go.gov.sg/swsff2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/swsff2025</a>!</p>
 <p></p><div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SkillsFuture Festival @ South West 2025 Poster" src="/images/SFF25_SW.png">
 </div><p></p>
@@ -60,4 +60,9 @@ register or find out more about the event.</p>
 <br><strong>Venue:</strong> Sengkang Grand Mall, Atrium and Buangkok Community Club, Level 3
 <br>
 </p>
+<p>Join us for an exciting two-day event at Sengkang Grand Mall that brings together job opportunities, skills training, and career support - all under one roof! This year's theme "Level Up For Life" reminds us that growing in our careers is a lifelong journey. Whether you're looking for a new job, wanting to learn new skills, or seeking guidance for your career journey, we've got you covered. 
+Register now at <a href="https://go.gov.sg/nesff2025registration" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nesff2025registration</a>!</p>
+<p></p><div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Career &amp; Skills Level-Up @ North East 2025 Poster" src="/images/Images_for_Landing_Page_01.jpg">
+</div><p></p>
 <hr>
