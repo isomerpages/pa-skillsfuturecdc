@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: SkillsFuture @CDC
+title: SkillsFuture @ CDC
 description: SkillsFuture @ CDC
 image: /images/isomer-logo.svg
 permalink: /
