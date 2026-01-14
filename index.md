@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: SkillsFuture Festival @CDC
-description: SkillsFuture Festival @ CDC
+title: SkillsFuture @CDC
+description: SkillsFuture @ CDC
 image: /images/isomer-logo.svg
 permalink: /
 notification: Government officials will never ask you to transfer money or
