@@ -12,7 +12,7 @@ sections:
   - hero:
       url: /about
       key_highlights:
-        - title: SkillsFuture@CDC Events
+        - title: SkillsFuture @ CDC Events
           description: ""
           url: /events
       background: /images/NECDC_Career___Skills_Level_Up_Masthead.jpg
